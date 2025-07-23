@@ -91,8 +91,8 @@
 <br>
 
 <li>
-  <a href="mailto:amrforstudy85@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail:-amrforstudy85-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
+  <a href="mailto:amrashraf.official@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail:-amrashraf.official-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
   </a>
 </li>
 
