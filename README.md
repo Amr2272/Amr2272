@@ -1,114 +1,150 @@
-
-<h1 align="center"><b>Hi , I'm Amr Ashraf </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist🤍;Computer+Science+Student❤️;Love+to+learn+new+things❤️" />
-  </a>
-</p>
-
-
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Data Scientist
-- Problem Solving in Hacker Rank
-- Currently learning Data Scientist by Self
-- I’m currently open for an Intern or a new job opportunity
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<h1 align="center">👋 Hi, I'm Amr Ashraf</h1>
 
 <p align="center">
-
-- **Languages**:
-    
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>   
-    
-
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![SSMS](https://img.shields.io/badge/SSMS-0078D7.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-    ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%F0%9F%A4%96;ML+Engineer+in+the+Making+%F0%9F%9A%80;Time+Series+%7C+MLOps+%7C+Machine+Learning;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
-<br>
-<br>
-
------
-
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-  <a href="https://www.linkedin.com/in/amr-ashraf-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-amr--ashraf---%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
-</li>
-
-
-
-<br>
-
-<li>
-  <a href="mailto:amrashraf.official@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail:-amrashraf.official-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
-  </a>
-</li>
-
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-
-<p align="middle">
-  <img src="https://komarev.com/ghpvc/?username=Amr2272&label=Visits&color=DD6387&style=flat" alt="3mr22" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/amr-ashraf-"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:amrashraf.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Amr2272"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Amr2272&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
 </p>
 
------
+---
 
-<br>
+## 🧑‍💻 About Me
+
+| | |
+|---|---|
+| 👤 **Full Name** | Amr Ashraf Amin Moussa |
+| 💼 **Role** | Data Scientist |
+| 🎓 **Education** | B.Sc. Computer Science & Statistics — Helwan University |
+| 📍 **Location** | Cairo, Egypt 🇪🇬 |
+| 🗣️ **Languages** | Arabic (Native) · English (Proficient) |
+| 🎯 **Focus** | Machine Learning · MLOps · Time Series Forecasting |
+| 🔍 **Status** | Open to internship & full-time opportunities 🚀 |
+
+> 💬 *"Thanks for visiting! Let's build something great with data."*
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Data Science & ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=python&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**MLOps & DevTools**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 💼 Experience
+
+### 🏛️ Digital Egypt Pioneers Initiative (DEPI) — Data Scientist Intern
+`June 2025 – December 2025`
+
+- 🔬 Worked on real-world data science projects using **Python** and **SQL**
+- 🧹 Performed data cleaning, preprocessing, and **EDA** to extract actionable insights
+- 📊 Created data visualizations to support data-driven decision-making
+- 🤖 Applied **machine learning** techniques for prediction, forecasting, and analysis
+- 🤝 Collaborated in a project-based, data-driven team environment
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 Store Sales — Time Series Forecasting
+> *Kaggle Competition | Python · Pandas · Prophet · ARIMA · LightGBM · Streamlit · MLflow · DVC*
+
+- Built an **end-to-end forecasting solution** for Corporación Favorita grocery sales
+- Engineered a preprocessing pipeline handling holidays, oil prices, and transaction data
+- Implemented a **multi-model system** (Prophet, ARIMA, LightGBM) with automated model selection
+- Designed **interactive Streamlit dashboards** for real-time sales prediction & scenario analysis
+- Applied full **MLOps pipeline**: data versioning (DVC), experiment tracking & model registry (MLflow)
+- Implemented **model monitoring** with drift detection, MAE/RMSE metrics & automated retraining alerts
+
+---
+
+### 🏠 Cairo Real Estate Pricing
+> *Python · Streamlit · Scikit-Learn · Gradient Boosting*
+
+- Developed a **Streamlit web app** to predict Cairo real estate prices from property features
+- Applied EDA, feature engineering, and **gradient boosting** for accurate price estimation
+
+---
+
+### 🐧 Tiny Debian Live — Mini Linux OS
+> *Shell Scripting · Linux Kernel · ISO Build · System Programming*
+
+- Built a **lightweight live-boot Linux distribution** based on Debian 12 with XFCE desktop
+- Supports persistence and network out-of-the-box
+
+---
+
+## 🎓 Education
+
+**Helwan University** — Cairo, Egypt
+
+🎓 B.Sc. Computer Science & Statistics | **GPA: 3.686 / 4.0** | 2023 – 2027
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer |
+|---|---|
+| 🤖 Machine Learning with Python | IBM |
+| 🏅 Certified Data Scientist | DEPI |
+| 🐍 Python Programming Basics | Mahara Tech |
+| 🗄️ SQL Certificate | HackerRank |
+| 🐍 Python (Basic) | HackerRank |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr2272&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr2272&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr2272&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+</p>
+
+---
+
+<h3 align="center">💬 Let's Connect</h3>
+
+<p align="center">
+  <i>I'm always open to collaborating on interesting data science projects or discussing new opportunities.</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amr-ashraf-"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:amrashraf.official@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
