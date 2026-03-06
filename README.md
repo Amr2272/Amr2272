@@ -108,7 +108,7 @@
 
 **Helwan University** — Cairo, Egypt
 
-🎓 B.Sc. Computer Science & Statistics | **GPA: 3.722 / 4.0** | 2023 – 2027
+🎓 B.Sc. Computer Science & Statistics | **GPA: 3.733 / 4.0** | 2023 – 2027
 
 ---
 
