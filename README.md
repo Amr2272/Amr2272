@@ -454,11 +454,11 @@ Advanced Time Series
 
 <!-- ===================== GITHUB ACTIVITY ===================== -->
 
-# 📈 Contribution Activity
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amr2272&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amr2272&theme=tokyonight" width="95%"/>
 
 </p>
 
