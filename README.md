@@ -2,178 +2,153 @@
 
 # Hi, I'm Amr Ashraf 👋
 
-### Data Scientist · AI Agent Developer · LLM Application Builder
+### Data Scientist | AI Agent Developer | Machine Learning Enthusiast
 
-<p>
-<a href="https://www.linkedin.com/in/amr-ashraf-">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:amrashraf.official@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Amr2272">
-<img src="https://img.shields.io/badge/GitHub-Amr2272-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+Computer Science & Statistics student focused on **Data Science, Machine Learning, Generative AI, and AI Agents**.
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Science & Statistics student at Helwan University**, focused on building practical solutions in **Data Science, Machine Learning, Generative AI, and AI Agents**.
+I'm a **Computer Science & Statistics student at Helwan University**, with hands-on experience building practical **Data Science and AI applications**.
 
-I have hands-on experience building end-to-end machine learning pipelines, LLM-powered applications, and Retrieval-Augmented Generation (RAG) systems using **Python, SQL, LangChain, TensorFlow, and modern AI tools**.
+My experience includes developing machine learning pipelines, time-series forecasting systems, **LLM-powered applications**, and **Retrieval-Augmented Generation (RAG)** agents using Python and modern AI technologies.
 
-My interests include:
+I'm particularly interested in building reliable AI systems that combine **data, machine learning, LLMs, and automation**.
 
-* Data Analysis & Exploratory Data Analysis
-* Machine Learning & Deep Learning
-* Time Series Forecasting
-* Generative AI & LLM Applications
-* Retrieval-Augmented Generation (RAG)
-* AI Agents & Multi-Agent Systems
-* MLOps & Model Deployment
+### Currently focused on:
+
+* 📊 Data Science & Machine Learning
+* 🤖 Generative AI & LLM Applications
+* 🧠 AI Agents & Agentic Workflows
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 📈 Time Series Forecasting
+* ⚙️ MLOps & Model Deployment
 
 ---
 
-## Experience
+## 💼 Experience
 
-### 🟠 Orange Digital Center — AI Agent Trainee
+### 🟠 AI Agent Trainee — Orange Digital Center
 
 **July 2026 – August 2026**
 
 * Worked with LLM fundamentals and prompt engineering.
 * Built chains and tools using **LangChain**.
-* Implemented memory and context handling for conversational agents.
+* Implemented memory and context handling for conversational AI agents.
 * Integrated external knowledge sources into agent workflows.
 * Designed multi-agent collaboration systems.
-* Added automation and API integrations to AI workflows.
+* Added automation and API integrations to extend agent capabilities.
 * Built web interfaces for interacting with AI agents.
-* Evaluated, debugged, and optimized agent workflows.
-* Deployed and presented the final AI Agent project.
+* Evaluated, debugged, and optimized AI agent workflows.
+* Deployed and presented the final project.
 
-### 🏛️ Digital Egypt Pioneers Initiative (DEPI) — Data Scientist Intern
+### 🇪🇬 Data Scientist Intern — Digital Egypt Pioneers Initiative (DEPI)
 
 **June 2025 – December 2025**
 
 * Worked on real-world Data Science projects using **Python and SQL**.
 * Performed data cleaning, preprocessing, and exploratory data analysis.
-* Created data visualizations to communicate analytical insights.
+* Created data visualizations to communicate insights.
 * Applied machine learning techniques for prediction and forecasting.
 * Collaborated in a project-based, data-driven environment.
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI Medical Assistant — RAG-Based Conversational Agent
+## 🤖 AI Medical Assistant
+
+### RAG-Based Conversational AI Agent
 
 **Python · LangChain · FAISS · HuggingFace · Groq API · Streamlit · Docker**
 
-AI-powered conversational assistant built using a Retrieval-Augmented Generation architecture.
+An AI-powered conversational assistant built around a **Retrieval-Augmented Generation (RAG)** architecture.
 
-**Key Features:**
+### Key Features
 
-* RAG-based document retrieval
-* HuggingFace embeddings
-* FAISS vector search
-* Conversational memory
-* LLM integration through Groq API
-* Text-to-Pandas analytics
-* Persistent FAISS indexes
-* Multi-session chat history
-* Docker & docker-compose deployment
+* 🔎 RAG-based document retrieval
+* 🧠 HuggingFace embeddings
+* ⚡ FAISS vector search
+* 💬 Conversational memory
+* 🤖 LLM integration using Groq API
+* 📊 Text-to-Pandas analytics
+* 💾 Persistent FAISS indexes
+* 👥 Multi-session chat history
+* 🐳 Docker & docker-compose deployment
+* 🧩 Modular application architecture
 
 ---
 
-### 📈 Store Sales — Time Series Forecasting
+## 📈 Store Sales — Time Series Forecasting
 
 **Python · Pandas · Prophet · ARIMA · LightGBM · Streamlit · DVC · MLflow**
 
-End-to-end forecasting solution for grocery store sales based on the Corporación Favorita Kaggle dataset.
+End-to-end machine learning solution for forecasting grocery store sales using the **Corporación Favorita Kaggle dataset**.
 
-**Key Features:**
+### Key Features
 
-* Data cleaning and preprocessing pipeline
-* Holiday, oil price, and transaction data handling
-* Multi-model forecasting
-* Prophet, ARIMA, and LightGBM
-* Automated model evaluation and selection
-* Interactive Streamlit dashboard
-* Experiment tracking with MLflow
-* Data and model versioning with DVC
-* Model monitoring using MAE/RMSE
-* Drift detection and retraining alerts
+* 🧹 Data cleaning and preprocessing pipeline
+* 📅 Holiday and calendar feature handling
+* 🛢️ Oil price and transaction data integration
+* 📈 Time-series forecasting
+* 🤖 Multiple forecasting models
+* 🔬 Prophet, ARIMA, and LightGBM
+* 📊 Model evaluation and selection
+* 🖥️ Interactive Streamlit dashboard
+* 🧪 Experiment tracking with MLflow
+* 📦 Data and model versioning with DVC
+* 📡 Model monitoring
+* 🚨 Drift detection and retraining alerts
 
 ---
 
-### 🏠 Cairo Real Estate Pricing
+## 🏠 Cairo Real Estate Pricing
 
 **Python · Scikit-Learn · Streamlit · Gradient Boosting**
 
-Machine learning application for predicting real estate prices in Cairo.
+A machine learning application for predicting real estate prices in Cairo using numerical and categorical property features.
 
-**Key Features:**
+### Key Features
 
-* Exploratory Data Analysis
-* Feature engineering
-* Numerical and categorical feature processing
-* Gradient Boosting model
-* Interactive Streamlit prediction interface
-
----
-
-## 🛠️ Technical Skills
-
-### Programming
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
-
-### AI, LLMs & Agents
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/FAISS-Vector%20Search-00A98F?style=for-the-badge"/>
-</p>
-
-### Data Science & Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prophet-0467DF?style=for-the-badge"/>
-</p>
-
-**Core:** Data Analysis · EDA · Machine Learning · Deep Learning · Feature Engineering · Statistical Analysis · Time Series Analysis
-
-### MLOps & Deployment
-
-<p>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-**Also:** Model Monitoring · Experiment Tracking · REST APIs · Linux
+* 📊 Exploratory Data Analysis
+* 🛠️ Feature engineering
+* 🔢 Numerical and categorical feature processing
+* 🤖 Gradient Boosting model
+* 🖥️ Interactive Streamlit application
+* 💰 Real-estate price prediction
 
 ---
 
-## 🎓 Education
+# 🛠️ Technical Skills
+
+## Programming
+
+**Python · SQL · Shell Scripting**
+
+## Data Science & Machine Learning
+
+**Pandas · NumPy · Scikit-Learn · TensorFlow · Prophet · LightGBM**
+
+**Data Analysis · EDA · Machine Learning · Deep Learning · Feature Engineering · Statistical Analysis · Time Series Analysis**
+
+## AI, LLMs & Agents
+
+**LangChain · RAG · Prompt Engineering · LLM APIs · Groq · HuggingFace · FAISS · Conversational AI Agents**
+
+## MLOps & Deployment
+
+**MLflow · DVC · Docker · Git · GitHub · Streamlit · REST APIs · Model Monitoring · Experiment Tracking**
+
+## Other
+
+**Linux · Data Visualization · Dashboards · Big Data Fundamentals**
+
+---
+
+# 🎓 Education
 
 ### Helwan University — Cairo, Egypt
 
@@ -183,7 +158,7 @@ Machine learning application for predicting real estate prices in Cairo.
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
 * **Machine Learning with Python** — IBM, Coursera
 * **Certified Data Scientist** — Digital Egypt Pioneers Initiative
@@ -193,53 +168,58 @@ Machine learning application for predicting real estate prices in Cairo.
 
 ---
 
-## 🌱 Currently Exploring
+# 📚 Currently Learning
 
-* AI Agents & Agentic Workflows
-* LLM Applications
+* Advanced AI Agents
+* Agentic AI Workflows
+* Large Language Model Applications
 * Advanced RAG Architectures
 * Machine Learning
-* MLOps & Production ML
-* Time Series Forecasting
+* MLOps
+* Production AI Systems
 
 ---
 
-## 📊 GitHub Stats
+# 📂 What You'll Find on My GitHub
 
-<div align="center">
+My repositories focus on practical implementations of:
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Amr2272&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+```text
+Data Science
+├── Data Analysis
+├── Data Cleaning
+├── Exploratory Data Analysis
+├── Machine Learning
+└── Time Series Forecasting
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr2272&layout=compact&hide_border=true&theme=tokyonight"/>
+Generative AI
+├── LLM Applications
+├── RAG
+├── AI Agents
+├── LangChain
+└── Vector Search
 
-</div>
+MLOps
+├── MLflow
+├── DVC
+├── Docker
+├── Model Monitoring
+└── Deployment
+```
 
 ---
 
-## 🐍 Contribution Snake
+# 🤝 Let's Connect
 
-<div align="center">
+I'm open to **internship opportunities, collaborations, and projects** related to:
 
-<img src="https://raw.githubusercontent.com/Amr2272/Amr2272/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+**Data Science · Machine Learning · AI Agents · Generative AI · RAG · MLOps**
 
-</div>
+📧 **Email:** [amrashraf.official@gmail.com](mailto:amrashraf.official@gmail.com)
 
----
+💼 **LinkedIn:** Amr Ashraf
 
-## 🤝 Let's Connect
-
-I'm interested in opportunities and collaborations related to:
-
-**Data Science · Machine Learning · AI Agents · LLM Applications · RAG · MLOps**
-
-<p>
-<a href="https://www.linkedin.com/in/amr-ashraf-">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:amrashraf.official@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+💻 **GitHub:** Amr2272
 
 ---
 
