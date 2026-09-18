@@ -1,230 +1,188 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Amr Ashraf</h1>
 
-# Hi, I'm Amr Ashraf 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Data+Scientist+%F0%9F%A4%96;AI+Agent+Developer+%F0%9F%A7%A0;LLMs+%7C+RAG+%7C+LangChain+%7C+MLOps;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%93%8A" alt="Typing SVG" />
+</p>
 
-### Data Scientist | AI Agent Developer | Machine Learning Enthusiast
-
-Computer Science & Statistics student focused on **Data Science, Machine Learning, Generative AI, and AI Agents**.
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amr-ashraf-"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:amrashraf.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Amr2272"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Amr2272&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **Computer Science & Statistics student at Helwan University**, with hands-on experience building practical **Data Science and AI applications**.
+> Data Scientist and **AI Agent Developer** with hands-on experience building end-to-end machine learning pipelines, **LLM-powered applications**, and **Retrieval-Augmented Generation (RAG)** agents using Python, SQL, LangChain, and TensorFlow. Skilled in data cleaning, EDA, feature engineering, and model deployment — with practical **MLOps** experience (MLflow, DVC, Docker).
 
-My experience includes developing machine learning pipelines, time-series forecasting systems, **LLM-powered applications**, and **Retrieval-Augmented Generation (RAG)** agents using Python and modern AI technologies.
+| | |
+|---|---|
+| 👤 **Full Name** | Amr Ashraf Amin Moussa |
+| 💼 **Role** | Data Scientist & AI Agent Developer |
+| 🎓 **Education** | B.Sc. Computer Science & Statistics — Helwan University |
+| 📍 **Location** | Matariyya, Cairo, Egypt 🇪🇬 |
+| 📞 **Phone** | 01096265802 |
+| 🗣️ **Languages** | Arabic (Native) · English (Proficient) |
+| 🎯 **Focus** | AI Agents · LLMs · RAG · Machine Learning · MLOps · Time Series Forecasting |
+| 🔍 **Status** | Open to internship & full-time opportunities 🚀 |
 
-I'm particularly interested in building reliable AI systems that combine **data, machine learning, LLMs, and automation**.
+> 💬 *"Thanks for visiting! Let's build something great with data."*
 
-### Currently focused on:
+---
 
-* 📊 Data Science & Machine Learning
-* 🤖 Generative AI & LLM Applications
-* 🧠 AI Agents & Agentic Workflows
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 📈 Time Series Forecasting
-* ⚙️ MLOps & Model Deployment
+## 🛠️ Tech Stack
+
+**Languages & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**AI Agents & LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-6E4AFF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-00599C?style=for-the-badge&logo=meta&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Data Science & ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=python&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**MLOps & DevTools**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-### 🟠 AI Agent Trainee — Orange Digital Center
+### 🧠 Orange Digital Hub — AI Agent Trainee
+`July 2026 – August 2026 · Dokki, Egypt`
 
-**July 2026 – August 2026**
-
-* Worked with LLM fundamentals and prompt engineering.
-* Built chains and tools using **LangChain**.
-* Implemented memory and context handling for conversational AI agents.
-* Integrated external knowledge sources into agent workflows.
-* Designed multi-agent collaboration systems.
-* Added automation and API integrations to extend agent capabilities.
-* Built web interfaces for interacting with AI agents.
-* Evaluated, debugged, and optimized AI agent workflows.
-* Deployed and presented the final project.
-
-### 🇪🇬 Data Scientist Intern — Digital Egypt Pioneers Initiative (DEPI)
-
-**June 2025 – December 2025**
-
-* Worked on real-world Data Science projects using **Python and SQL**.
-* Performed data cleaning, preprocessing, and exploratory data analysis.
-* Created data visualizations to communicate insights.
-* Applied machine learning techniques for prediction and forecasting.
-* Collaborated in a project-based, data-driven environment.
+- 🎓 Completed an intensive training program on **AI agents** and the **LLM ecosystem**
+- ✍️ Covered LLM fundamentals and **prompt engineering** techniques
+- 🔗 Built chains and tools with **LangChain**; implemented memory & context handling for conversational agents
+- 📚 Integrated external knowledge sources into agent workflows
+- 🤝 Designed **multi-agent collaboration** systems
+- ⚙️ Added automation and **API integrations**; built a web interface to interact with agents
+- 🧪 Performed evaluation, debugging, and optimization — ending with a full deployment & presentation
 
 ---
 
-# 🚀 Featured Projects
+### 🏛️ Digital Egypt Pioneers Initiative (DEPI) — Data Scientist Intern
+`June 2025 – December 2025 · Cairo, Egypt`
 
-## 🤖 AI Medical Assistant
-
-### RAG-Based Conversational AI Agent
-
-**Python · LangChain · FAISS · HuggingFace · Groq API · Streamlit · Docker**
-
-An AI-powered conversational assistant built around a **Retrieval-Augmented Generation (RAG)** architecture.
-
-### Key Features
-
-* 🔎 RAG-based document retrieval
-* 🧠 HuggingFace embeddings
-* ⚡ FAISS vector search
-* 💬 Conversational memory
-* 🤖 LLM integration using Groq API
-* 📊 Text-to-Pandas analytics
-* 💾 Persistent FAISS indexes
-* 👥 Multi-session chat history
-* 🐳 Docker & docker-compose deployment
-* 🧩 Modular application architecture
+- 🔬 Worked on real-world data science projects using **Python** and **SQL**
+- 🧹 Performed data cleaning, preprocessing, and **EDA** to extract actionable insights
+- 📊 Created data visualizations to support data-driven decision-making
+- 🤖 Applied **machine learning** techniques for prediction, forecasting, and analysis
+- 🤝 Collaborated in a project-based, data-driven team environment
 
 ---
 
-## 📈 Store Sales — Time Series Forecasting
+## 🚀 Featured Projects
 
-**Python · Pandas · Prophet · ARIMA · LightGBM · Streamlit · DVC · MLflow**
+### 🩺 AI Medical Assistant — RAG-Based Conversational Agent
+> *Python · LangChain · FAISS · HuggingFace · Groq API · Jinja2 · Streamlit · Docker*
 
-End-to-end machine learning solution for forecasting grocery store sales using the **Corporación Favorita Kaggle dataset**.
-
-### Key Features
-
-* 🧹 Data cleaning and preprocessing pipeline
-* 📅 Holiday and calendar feature handling
-* 🛢️ Oil price and transaction data integration
-* 📈 Time-series forecasting
-* 🤖 Multiple forecasting models
-* 🔬 Prophet, ARIMA, and LightGBM
-* 📊 Model evaluation and selection
-* 🖥️ Interactive Streamlit dashboard
-* 🧪 Experiment tracking with MLflow
-* 📦 Data and model versioning with DVC
-* 📡 Model monitoring
-* 🚨 Drift detection and retraining alerts
+- Built an **autonomous AI agent** for medical Q&A using a **Retrieval-Augmented Generation (RAG)** pipeline
+- Implemented a **FAISS vector store** with HuggingFace embeddings for semantic retrieval
+- Migrated the LLM backend to the **Groq API** for faster inference
+- Refactored the prototype into a modular, **production-ready Streamlit app** with a text-to-pandas analytics layer
+- Delivered production-readiness improvements: **Docker & docker-compose** deployment, FAISS index persistence, and multi-session chat history
 
 ---
 
-## 🏠 Cairo Real Estate Pricing
+### 📦 Store Sales — Time Series Forecasting
+> *Kaggle Competition | Python · Pandas · Prophet · ARIMA · LightGBM · Streamlit · MLflow · DVC*
 
-**Python · Scikit-Learn · Streamlit · Gradient Boosting**
-
-A machine learning application for predicting real estate prices in Cairo using numerical and categorical property features.
-
-### Key Features
-
-* 📊 Exploratory Data Analysis
-* 🛠️ Feature engineering
-* 🔢 Numerical and categorical feature processing
-* 🤖 Gradient Boosting model
-* 🖥️ Interactive Streamlit application
-* 💰 Real-estate price prediction
+- Built an **end-to-end forecasting solution** for Corporación Favorita grocery sales
+- Engineered a preprocessing pipeline handling holidays, oil prices, and transaction data
+- Implemented a **multi-model system** (Prophet, ARIMA, LightGBM) with automated model selection
+- Designed **interactive Streamlit dashboards** for real-time sales prediction & scenario analysis
+- Applied full **MLOps pipeline**: data versioning (DVC), experiment tracking & model registry (MLflow)
+- Implemented **model monitoring** with drift detection, MAE/RMSE metrics & automated retraining alerts
 
 ---
 
-# 🛠️ Technical Skills
+### 🏠 Cairo Real Estate Pricing
+> *Python · Streamlit · Scikit-Learn · Gradient Boosting*
 
-## Programming
-
-**Python · SQL · Shell Scripting**
-
-## Data Science & Machine Learning
-
-**Pandas · NumPy · Scikit-Learn · TensorFlow · Prophet · LightGBM**
-
-**Data Analysis · EDA · Machine Learning · Deep Learning · Feature Engineering · Statistical Analysis · Time Series Analysis**
-
-## AI, LLMs & Agents
-
-**LangChain · RAG · Prompt Engineering · LLM APIs · Groq · HuggingFace · FAISS · Conversational AI Agents**
-
-## MLOps & Deployment
-
-**MLflow · DVC · Docker · Git · GitHub · Streamlit · REST APIs · Model Monitoring · Experiment Tracking**
-
-## Other
-
-**Linux · Data Visualization · Dashboards · Big Data Fundamentals**
+- Developed a **Streamlit web app** to predict Cairo real estate prices from numeric & categorical features
+- Applied EDA, feature engineering, and **gradient boosting** for accurate price estimation
 
 ---
 
-# 🎓 Education
+### 🐧 Tiny Debian Live — Mini Linux OS
+> *Shell Scripting · Linux Kernel · ISO Build · System Programming*
 
-### Helwan University — Cairo, Egypt
-
-**Bachelor of Science (B.Sc.) — Computer Science & Statistics**
-
-**2023 – 2027**
+- Built a **lightweight live-boot Linux distribution** based on Debian 12 with XFCE desktop
+- Supports persistence and network out-of-the-box
 
 ---
 
-# 🏆 Certifications
+## 🎓 Education
 
-* **Machine Learning with Python** — IBM, Coursera
-* **Certified Data Scientist** — Digital Egypt Pioneers Initiative
-* **Python Programming Basics** — Mahara Tech
-* **SQL Certificate** — HackerRank
-* **Python (Basic)** — HackerRank
+**Helwan University** — Cairo, Egypt
+
+🎓 B.Sc. Computer Science & Statistics | **CGPA: 3.769 / 4.0** | 2023 – 2027
 
 ---
 
-# 📚 Currently Learning
+## 📜 Certifications
 
-* Advanced AI Agents
-* Agentic AI Workflows
-* Large Language Model Applications
-* Advanced RAG Architectures
-* Machine Learning
-* MLOps
-* Production AI Systems
-
----
-
-# 📂 What You'll Find on My GitHub
-
-My repositories focus on practical implementations of:
-
-```text
-Data Science
-├── Data Analysis
-├── Data Cleaning
-├── Exploratory Data Analysis
-├── Machine Learning
-└── Time Series Forecasting
-
-Generative AI
-├── LLM Applications
-├── RAG
-├── AI Agents
-├── LangChain
-└── Vector Search
-
-MLOps
-├── MLflow
-├── DVC
-├── Docker
-├── Model Monitoring
-└── Deployment
-```
+| Certificate | Issuer |
+|---|---|
+| 🧠 Certified AI Agent | Orange |
+| 🤖 Machine Learning with Python | IBM · Coursera |
+| 🏅 Certified Data Scientist | DEPI |
+| 🐍 Python Programming Basics | Mahara Tech |
+| 🗄️ SQL Certificate | HackerRank |
+| 🐍 Python (Basic) | HackerRank |
 
 ---
 
-# 🤝 Let's Connect
+## 📊 GitHub Stats
 
-I'm open to **internship opportunities, collaborations, and projects** related to:
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr2272&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr2272&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</p>
 
-**Data Science · Machine Learning · AI Agents · Generative AI · RAG · MLOps**
-
-📧 **Email:** [amrashraf.official@gmail.com](mailto:amrashraf.official@gmail.com)
-
-💼 **LinkedIn:** Amr Ashraf
-
-💻 **GitHub:** Amr2272
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr2272&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+</p>
 
 ---
 
-<div align="center">
+<h3 align="center">💬 Let's Connect</h3>
 
-### Building with Data. Engineering with AI. 🚀
+<p align="center">
+  <i>I'm always open to collaborating on AI, data science, or MLOps projects — or just discussing new opportunities.</i>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amr-ashraf-"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:amrashraf.official@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
