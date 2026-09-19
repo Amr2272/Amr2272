@@ -22,7 +22,7 @@
 | 👤 **Full Name** | Amr Ashraf Amin Moussa |
 | 💼 **Role** | Data Scientist & AI Agent Developer |
 | 🎓 **Education** | B.Sc. Computer Science & Statistics — Helwan University |
-| 📍 **Location** | Matariyya, Cairo, Egypt 🇪🇬 |
+| 📍 **Location** |Cairo, Egypt 🇪🇬 |
 | 📞 **Phone** | 01096265802 |
 | 🗣️ **Languages** | Arabic (Native) · English (Proficient) |
 | 🎯 **Focus** | AI Agents · LLMs · RAG · Machine Learning · MLOps · Time Series Forecasting |
